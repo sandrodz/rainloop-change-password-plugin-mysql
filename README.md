@@ -1,4 +1,4 @@
-rainloop-change-password-plugin-mysql
+Change password plugin for Rainloop
 =====================================
 
-This is rainloop (webmail) plugin. It enables change password capability for postfix virtual/mysql users
+This is rainloop (webmail) plugin. It enables change password capability for postfix virtual/mysql users.
